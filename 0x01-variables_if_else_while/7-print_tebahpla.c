@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  *main - Display alaphabets is reverse 
+  *main - Display alaphabets is reverse
   *
   *Return:Always 0 (Success)
   */
@@ -13,5 +13,5 @@ int main(void)
 		putchar(l);
 	}
 	putchar('\n');
-	return (o);
+	return (0);
 }
