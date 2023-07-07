@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * sqrt - Evaluation
+  * sqrttd - Evaluation
   * @x: same number
   * @y: number that iterates from 1 to n
   *
