@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
- /*_print_rev_recursion - Reverse a string
+/**
+  *_print_rev_recursion - Reverse a string
   *@s: pointer to string
   *
   *Return: 1 Success. - 1 0n error
