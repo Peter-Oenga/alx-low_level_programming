@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 /**
- *
- *
- *
- *
- */
+  *main - Sum of digits
+  *@argc: Number count
+  *@argv: String array
+  *Return: 0 Success, 1 error
+  */
 int main(int argc, char* argv[])
 {
 	int i, sum = 0;
