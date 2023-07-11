@@ -16,5 +16,8 @@ int factorial(int n)
 		return (1);
 	}
 	return (n * factorial(n - 1));
+<<<<<<< HEAD
 
+=======
+>>>>>>> 13462e4364d50fae735b4c0eb641ea02f65b802d
 }
